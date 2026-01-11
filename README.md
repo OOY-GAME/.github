@@ -1,6 +1,6 @@
 <div align="center">
 
-# ![Logo](assets/OOYGAME.jpeg)
+  <img src="assets/OOYGAME.jpeg" alt="OOY GAME Logo" width="350" />
 
 # OOY GAME
 

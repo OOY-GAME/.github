@@ -1,9 +1,17 @@
-# ![Logo](assets/OOYGAME.jpeg)
+<div align="center">
+  
+  <img src="../assets/OOYGAME.jpeg" alt="OOY GAME Logo" width="350" />
 
 # OOY GAME
 
 > **Estudio independiente de desarrollo de videojuegos móviles**  
 > *"Creamos mundos pequeños con grandes experiencias"*
+
+
+  <img src="https://img.shields.io/badge/Status-In_Development-f59e0b?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Mobile_Games-0ea5e9?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Engine-Multi_Platform-6366f1?style=for-the-badge" alt="Engine" />
+</div>
 
 ---
 
@@ -33,12 +41,13 @@ Somos un colectivo de estudiantes y desarrolladores apasionados unidos por la cr
 <div align="center">
 
 | Miembro | Rol |
-|:--------|:----|
-| **DaaNiieeL123** | 💻 Programación & Gameplay |
-| **JairoGh** | ⚙️ Sistemas & Arquitectura |
-| **Jsue46** | 🧩 Lógica de Juego |
+|:-------:|:---:|
+| **[DaaNiieeL123](https://github.com/DaaNiieeL123)** | 💻 Programación & Gameplay |
+| **[JairoGh](https://github.com/JairoGh)** | ⚙️ Sistemas & Arquitectura |
+| **[Jsue46](https://github.com/Jsue46)** | 🧩 Lógica de Juego |
 
 </div>
+
 ---
 
 ## 🕹️ Proyectos
@@ -102,7 +111,7 @@ Si compartes nuestra visión, eres bienvenido.
 
 - 📧 **Email:** ooygamedev@gmail.com
 - 🌐 **Web:** Próximamente
-- 🐙 **GitHub:** [OOY GAME Organization](#)
+- 🐙 **GitHub:** [OOY GAME Organization](https://github.com/OOY-GAME)
 
 ---
 
@@ -117,6 +126,6 @@ Más detalles disponibles con los primeros lanzamientos.
 
 **"Pequeños detalles. Grandes juegos."**
 
-*OOY GAME © 2025 - Todos los derechos reservados*
+*OOY GAME © 2026 - Todos los derechos reservados*
 
 </div>

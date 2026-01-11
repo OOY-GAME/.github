@@ -32,4 +32,4 @@ Actualmente nos encontramos en una etapa de **prototipado y desarrollo temprano*
 Crear videojuegos funcionales, divertidos y bien estructurados, mientras crecemos como desarrolladores y como estudio independiente.
 
 ## 📫 Contacto
-- GitHub Organization: https://github.com/NOMBRE_ORG
+- GitHub Organization
